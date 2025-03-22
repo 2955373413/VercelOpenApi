@@ -1,5 +1,7 @@
 # OpenAI API 代理服务
 
+> **声明：** 本项目是对原有项目的修复版本，非原创项目。感谢原作者的开源贡献。
+
 这是一个基于 Vercel Edge Functions 和 Cloudflare Workers 的 OpenAI API 代理服务，可以帮助你解决 OpenAI API 访问限制的问题。
 
 ## 主要特性
